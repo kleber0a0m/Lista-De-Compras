@@ -8,7 +8,7 @@ Funcionalidades:
 
 * Alterar Itens da lista
 
-* Pesquisa
+* Pesquisa com filtro por coluna
 
 * Cálculo do valor total do itens
 
