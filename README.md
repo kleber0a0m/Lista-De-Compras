@@ -23,3 +23,5 @@ Funcionalidades:
 
 ![alt text](https://i.imgur.com/0yFydHY.jpg)
 
+### Feito por: Kléber Albino Moreira e Caio Marques
+
