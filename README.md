@@ -36,5 +36,6 @@ Funcionalidades:
 ![alt text](https://i.imgur.com/0yFydHY.jpg)
 
 
-### Feito por: Kléber Albino Moreira e Caio Marques
+### Projeto base feito por: Kléber Albino Moreira e Caio Marques
+### Login e Cadastro por : Kléber Albino Moreira e Marcos Daniel
 
